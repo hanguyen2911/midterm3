@@ -1,0 +1,336 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Vincent Black Shadow",
+      "price": 73000,
+      "cc": 32,
+      "describe": "Nổi tiếng về sự đổi mới trong thiết kế, kỹ thuật xuất sắc và hiệu suất cao. Chiếc Vincent Black Shadow đặc biệt  được công bố với tốc độ tối đa 125 dặm / giờ. Được chế tạo thành ba Series khác nhau trong suốt vòng đời của mình. ",
+      "species": "species 1",
+      "firm": "firm 1",
+      "image": "./../assets/images/moto1.jpg",
+      "color": "Vang",
+      "status": "promo"
+    },
+    {
+      "id": "2",
+      "name": "Suzuki Katana",
+      "price": 33000,
+      "cc": 59,
+      "describe": " Đối với chiếc SUV mini địa hình được bán ở Indonesia từ năm 1980 đến 2005. Một loạt các mô tô thể thao du lịch ở Bắc Mỹ thông qua năm mô hình 2006 và bắt đầu từ đầu thiên niên kỷ, một dòng xe tay ga 50 cc ở châu Âu.",
+      "species": "species 2",
+      "firm": "firm 2",
+      "image": "./../assets/images/moto2.jpg",
+      "color": "#5b504b",
+      "status": "promo"
+    },
+    {
+      "id": "3",
+      "name": "Honda CBR 1100XX ",
+      "price": 50000,
+      "cc": 47,
+      "describe": "Một phần của loạt CBR làm từ năm 1996 đến 2007. Chiếc xe được phát triển để thách thức Kawasaki Ninja ZX-11 là xe máy sản xuất nhanh nhất thế giới, và Honda đã thành công với một tốc độ tối đa là 178,5 dặm/giờ",
+      "species": "species 3",
+      "firm": "firm 3",
+      "image": "./../assets/images/moto3.jpg",
+      "color": "#6a2958",
+      "status": ""
+    },
+    {
+      "id": "4",
+      "name": "Suzuki Hayabusa ",
+      "price": 14000,
+      "cc": 28,
+      "describe": " Một môn thể thao xe đạp xe máy do Suzuki kể từ năm 1999. Nó ngay lập tức giành được sự ca ngợi như của thế giới xe máy sản xuất nhanh nhất , với tốc độ tối đa 303-312 km / h (188-194 mph).",
+      "species": "species 4",
+      "firm": "firm 4",
+      "image": "./../assets/images/moto4.jpg",
+      "color": "#565418",
+      "status": "promo"
+    },
+    {
+      "id": "5",
+      "name": "Kawasaki Ninja",
+      "price": 21000,
+      "cc": 76,
+      "describe": "một tên được đặt cho một số series của Kawasaki xe đạp thể thao mà bắt đầu với năm 1984 GPZ900R . Kawasaki Heavy Industries đã đăng ký nhãn hiệu cho một phiên bản của từ Ninja dưới dạng một dấu chữ , một chữ viết cách điệu, để sử dụng trên xe máy và phụ tùng của chúng",
+      "species": "species 5",
+      "firm": "firm 5",
+      "image": "./../assets/images/moto5.jpg",
+      "color": "#3b5c1a",
+      "status": ""
+    },
+    {
+      "id": "6",
+      "name": "Ducati Monster",
+      "price": 83000,
+      "cc": 44,
+      "describe": " Đây là một chiếc xe đạp khỏa thân , đặc trưng bởi một động cơ tiếp xúc và khung. Khung lưới mắt cáo trong Ducati Monster là một phần không thể thiếu trong thiết kế của xe máy, cho phép cả tính thẩm mỹ và hiệu quả về kết cấu. ",
+      "species": "species 6",
+      "firm": "firm 6",
+      "image": "./../assets/images/moto6.jpg",
+      "color": "#615278",
+      "status": "promo"
+    },
+    {
+      "id": "7",
+      "name": "Tiger và Hurricane",
+      "price": 88000,
+      "cc": 77,
+      "describe": "ây là bức tranh đầu tiên trong số những bức tranh rừng mà nghệ sĩ được biết đến nhiều nhất. Nó cho thấy một con hổ , được chiếu sáng bởi một tia chớp, đang chuẩn bị vồ con mồi giữa cơn gió dữ.",
+      "species": "species 7",
+      "firm": "firm 7",
+      "image": "./../assets/images/moto7.jpg",
+      "color": "#3e7d49",
+      "status": ""
+    },
+    {
+      "id": "8",
+      "name": "Honda Fireblade ",
+      "price": 58000,
+      "cc": 66,
+      "describe": "Các Honda Fireblade là một gia đình của xe máy thể thao sản xuất bởi Honda từ năm 1992. Mô hình đầu tiên được thiết kế bởi Tadao Baba .",
+      "species": "species 8",
+      "firm": "firm 8",
+      "image": "./../assets/images/moto8.jpg",
+      "color": "#3c4548",
+      "status": ""
+    },
+    {
+      "id": "9",
+      "name": "Sportbike Honda CBR 600",
+      "price": 35000,
+      "cc": 28,
+      "describe": "CBR600RR được bán trên thị trường như là chiếc xe đạp thể thao hạng trung hàng đầu của Honda, kế nhiệm chức vô địch Supersport World Champion 2001-2006 CBR600F4i năm 2002.",
+      "species": "species 9",
+      "firm": "firm 9",
+      "image": "./../assets/images/moto9.jpg",
+      "color": "#415815",
+      "status": "promo"
+    },
+    {
+      "id": "10",
+      "name": "Naked bike",
+      "price": 33000,
+      "cc": 59,
+      "describe": "Có nhiều hệ thống để phân loại các loại mô tô , mô tả cách sử dụng mô tô , hoặc một số kết hợp của cả hai. Sáu loại chính được công nhận rộng rãi: tàu tuần dương,  tiêu chuẩn, mục đích kép và xe đạp địa hình. ",
+      "species": "species 10",
+      "firm": "firm 10",
+      "image": "./../assets/images/moto10.jpg",
+      "color": "#147214",
+      "status": ""
+    },
+    {
+      "id": "11",
+      "name": "Cruiser",
+      "price": 84000,
+      "cc": 5,
+      "describe": "Một tàu tuần dương là một loại tàu chiến . Các tàu tuần dương hiện đại thường là những tàu lớn nhất trong hạm đội sau tàu sân bay và tàu tấn công đổ bộ , và thường có thể thực hiện một số vai trò.",
+      "species": "species 11",
+      "firm": "firm 11",
+      "image": "./../assets/images/moto11.jpg",
+      "color": "#3f1170",
+      "status": ""
+    },
+    {
+      "id": "12",
+      "name": "Touring",
+      "price": 2000,
+      "cc": 51,
+      "describe": "Mặc dù hầu hết mọi mô tô đều có thể được sử dụng cho mục đích này, [1] các nhà sản xuất đã phát triển các mô hình cụ thể được thiết kế để đáp ứng nhu cầu cụ thể của những tay đua này.",
+      "species": "species 12",
+      "firm": "firm 12",
+      "image": "./../assets/images/moto12.jpg",
+      "color": "#540c01",
+      "status": "promo"
+    },
+    {
+      "id": "13",
+      "name": "Sport-touring",
+      "price": 5000,
+      "cc": 51,
+      "describe": "Một chiếc xe máy thể thao touring là một loại xe máy kết hợp hiệu suất của một chiếc xe đạp thể thao với khả năng đường dài và thoải mái của một chiếc xe máy lưu diễn .",
+      "species": "species 13",
+      "firm": "firm 13",
+      "image": "./../assets/images/moto13.jpg",
+      "color": "#082007",
+      "status": ""
+    },
+    {
+      "id": "14",
+      "name": "Dòng Fazer",
+      "price": 84000,
+      "cc": 97,
+      "describe": "Kawasaki là hãng xe môtô Nhật Bản, được thành lập vào năm 1896 bởi Shozo Kawasaki, đến nay hãng đã trở thành tập đoàn môtô nổi tiếng thế giới",
+      "species": "species 14",
+      "firm": "firm 14",
+      "image": "./../assets/images/moto14.jpg",
+      "color": "#6b647c",
+      "status": ""
+    },
+    {
+      "id": "15",
+      "name": "Naked-muscle",
+      "price": 33000,
+      "cc": 9,
+      "describe": "Có nhiều hệ thống để phân loại các loại mô tô , mô tả cách sử dụng mô tô , ý định của nhà thiết kế, hoặc một số kết hợp của cả hai.",
+      "species": "species 15",
+      "firm": "firm 15",
+      "image": "./../assets/images/moto15.jpg",
+      "color": "#2c381b",
+      "status": ""
+    },
+    {
+      "id": "16",
+      "name": "Street-fighter",
+      "price": 13000,
+      "cc": 8,
+      "describe": "một trong những loại trò chơi điện tử đối kháng nổi tiếng trên toàn thế giới với cách chiến đấu tay đôi và một chọi một. Hãng Capcom đã cho giới thiệu game này lần đầu tiên vào tháng 8 năm 1987 và đã qua phiên bản khác nhau cho đến ngày nay.",
+      "species": "species 16",
+      "firm": "firm 16",
+      "image": "./../assets/images/moto16.jpg",
+      "color": "#7d5339",
+      "status": ""
+    },
+    {
+      "id": "17",
+      "name": "Offroad",
+      "price": 10000,
+      "cc": 28,
+      "describe": "Xe địa hình là hoạt động lái xe hoặc đi xe trên những con đường hoặc đường mòn không bằng phẳng , được làm từ các vật liệu như cát, sỏi, lòng sông, bùn, tuyết, đá và các địa hình tự nhiên khác.",
+      "species": "species 17",
+      "firm": "firm 17",
+      "image": "./../assets/images/moto17.jpg",
+      "color": "#3f6d50",
+      "status": ""
+    },
+    {
+      "id": "18",
+      "name": "Cafe Racer",
+      "price": 16000,
+      "cc": 51,
+      "describe": "một thể loại của xe máy thể thao có nguồn gốc trong British xe máy đam mê của những năm 1960 ở London. Các tay đua Café là những chiếc xe đạp sản xuất tiêu chuẩn đã được chủ sở hữu sửa đổi và tối ưu hóa ",
+      "species": "species 18",
+      "firm": "firm 18",
+      "image": "./../assets/images/moto18.jpg",
+      "color": "#7c5511",
+      "status": ""
+    },
+    {
+      "id": "19",
+      "name": "Adventure",
+      "price": 49000,
+      "cc": 94,
+      "describe": "Một dual-sport xe máy là một loại đường phố hợp pháp xe máy được thiết kế cho cả trên và off-road sử dụng. Các thuật ngữ đường dành cho đường trường, đường địa hình và đường trường và mục đích kép cũng được sử dụng cho loại xe máy này. ",
+      "species": "species 19",
+      "firm": "firm 19",
+      "image": "./../assets/images/moto19.jpg",
+      "color": "#160924",
+      "status": ""
+    },
+    {
+      "id": "20",
+      "name": "Maxiscooter",
+      "price": 12000,
+      "cc": 50,
+      "describe": "Các yếu tố của thiết kế xe tay ga đã có mặt trong một số xe máy đầu tiên, và xe tay ga đã được thực hiện từ năm 1914 hoặc trước đó. Phát triển xe tay ga tiếp tục ở châu Âu và Hoa Kỳ giữa các cuộc chiến tranh thế giới.",
+      "species": "species 20",
+      "firm": "firm 20",
+      "image": "./../assets/images/moto20.jpg",
+      "color": "#285f3c",
+      "status": ""
+    }
+  ],
+  "user": [
+    {
+      "name": "Hoa Mai",
+      "password": "cvbdfghj",
+      "email": "hoale3703@gmail.com",
+      "address": "Binh ",
+      "phone": "333 587 611",
+      "avatar": "https://cdn.fakercloud.com/avatars/sawrb_128.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Lữ ",
+      "email": "Nicole.Denesik@gmail.com",
+      "phone": "7486578463",
+      "password": "012345678",
+      "address": "Jaclyn Isle",
+      "avatar": "https://cdn.fakercloud.com/avatars/richardgarretts_128.jpg",
+      "id": "6"
+    },
+    {
+      "name": "Lữ",
+      "phone": "1-316-944-7653 x326",
+      "avatar": "https://cdn.fakercloud.com/avatars/derekcramer_128.jpg",
+      "address": "Hammes Manor",
+      "email": "Royce34@gmail.com",
+      "password": "123456789",
+      "id": "8",
+      "role": false
+    },
+    {
+      "name": "Vĩ",
+      "email": "Delbert0@hotmail.com",
+      "phone": "1-385-707-4909 x219",
+      "address": "Davion Lights",
+      "password": "987654321",
+      "avatar": "https://cdn.fakercloud.com/avatars/ipavelek_128.jpg",
+      "id": "9"
+    },
+    {
+      "id": "11",
+      "name": "name 11",
+      "email": "Dustin.Schiller37@gmail.com",
+      "phone": "920-798-0095",
+      "avatar": "https://cdn.fakercloud.com/avatars/areus_128.jpg",
+      "password": "adfghjkl",
+      "address": "Jewel Prairie",
+      "role": true
+    },
+    {
+      "name": "Lu",
+      "email": "lu.ho22@student.passerellesnumeriques.org",
+      "phone": "107643772dsd",
+      "address": "Binh Dinh",
+      "avatar": "",
+      "password": "12345678",
+      "id": "pyCdAzr"
+    },
+    {
+      "name": "ỷ",
+      "email": "ty",
+      "phone": "ty",
+      "address": "ty",
+      "avatar": "",
+      "id": "0WZ1_rF"
+    }
+  ],
+  "order": [
+    {
+      "id": "2",
+      "nameUse": "Vixfdftdg",
+      "idUse": "3",
+      "namePro": "Moto",
+      "color": "yyyty",
+      "price": "55",
+      "quantity": "454455654",
+      "status": true,
+      "phone": "56576788",
+      "address": "Binh "
+    },
+    {
+      "id": "3",
+      "nameUse": "Pha",
+      "idUse": "",
+      "namePro": "namePro 100",
+      "color": "y",
+      "price": "545",
+      "quantity": "56",
+      "status": true,
+      "phone": "107643772dsd",
+      "address": "Binh Dinh"
+    }
+  ]
+}
